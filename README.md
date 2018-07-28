@@ -1,2 +1,2 @@
 # learn-c
-# This software is a collection of "Hello, World" programs.
+This software is a collection of "Hello, World" programs.
